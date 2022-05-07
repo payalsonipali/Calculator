@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="enter_username">Enter Username</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="enter_cnfirm_password">Confirm Password</string>
+    <string name="login">LogIn</string>
+    <string name="signup">SignUp</string>
+</resources>
