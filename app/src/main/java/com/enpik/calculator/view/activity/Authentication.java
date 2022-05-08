@@ -1,11 +1,12 @@
-package com.enpik.calculator;
+package com.enpik.calculator.view.activity;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-import android.content.Context;
 import android.os.Bundle;
 import android.widget.FrameLayout;
 
+import com.enpik.calculator.view.fragment.Login;
+import com.enpik.calculator.R;
 import com.google.firebase.FirebaseApp;
 
 public class Authentication extends AppCompatActivity {
